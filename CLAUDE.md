@@ -1,6 +1,6 @@
 # AI Agent Business Kit
 
-Your complete business automation system — 5 Agents, 18 Skills, 18 Commands.
+Your complete business automation system — 5 Agents, 19 Skills, 19 Commands.
 
 ## How This Kit Works
 
@@ -19,7 +19,7 @@ When a user types a `/command`, you:
 | **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder |
 | **Conversion Agent** | `agents/03-conversion-agent.md` | sales-page-blueprint, copywriting, objection-handler |
 | **Deliver Agent** | `agents/04-deliver-agent.md` | payment-setup-guide, notification-setup-guide, delivery-setup-guide, landing-page-builder, vercel-deployment, payment-embed |
-| **Insights Agent** | `agents/05-insights-agent.md` | social-analytics, revenue-report, optimization-advisor |
+| **Insights Agent** | `agents/05-insights-agent.md` | social-analytics, revenue-report, optimization-advisor, chon-dung-pain-point-ai |
 
 ## Commands
 
@@ -50,6 +50,7 @@ When a user types a `/command`, you:
 - `/analytics [platform] [period]` — Social media analytics
 - `/revenue [period]` — Revenue reporting
 - `/optimize [area]` — Performance optimization
+- `/ai-pain-point [step] [context]` — Chọn đúng pain point để ứng dụng AI (mapping, scoring, Top 3, pilot 30-60-90)
 
 ## Skills
 

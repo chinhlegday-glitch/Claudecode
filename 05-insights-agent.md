@@ -442,6 +442,7 @@ This agent activates specialized skills from the business kit:
 - `skills/social-analytics/` - Social media performance analysis across Facebook, Instagram, TikTok, and YouTube
 - `skills/revenue-report/` - Revenue and order tracking, analysis, and reporting
 - `skills/optimization-advisor/` - Data-driven business optimization with bottleneck diagnosis
+- `skills/chon-dung-pain-point-ai/` - Choose the right pain points for AI: impact × feasibility scoring, weighted decision matrix, Top 3 deep-dive, 30-60-90 pilot charter
 
 ## Workflow Triggers
 
